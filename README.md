@@ -1,7 +1,7 @@
 Elastic URL : http://34.239.50.59:8081/
 
 
-# Ece9065Fp
+# Music Library
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
